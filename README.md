@@ -15,6 +15,11 @@ http://courses.reactjsprogram.com/
 
 This is a course that provides an introduction to React. Having only gone through the first few videos, it gives a good introduction to some of the more abstract and/or overarching concepts that get tossed around like 'declarative programming'. 
 
+##Build with React 
+http://buildwithreact.com/tutorial
+
+This seems like the bare-bone introduction to the core components of React. 
+
 ##The Official Facebook Docs
 https://facebook.github.io/react/
 
